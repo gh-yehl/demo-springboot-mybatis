@@ -32,7 +32,7 @@ Demo Project - SpringBoot Integrate with MyBatis(No XML - Pure AutoConfigue) and
     server.port=8080
     spring.application=demo-springboot-mybatis
     
-    spring.datasource.url=jdbc:mysql://www.curvelife.cn:3306/springcore?characterEncoding=utf8
+    spring.datasource.url=jdbc:mysql://www.baidu.cn:3306/springcore?characterEncoding=utf8
     spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
     spring.datasource.username=root
     spring.datasource.password=123456
