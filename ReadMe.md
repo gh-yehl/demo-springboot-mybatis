@@ -102,12 +102,13 @@ Demo Project - SpringBoot Integrate with MyBatis(No XML - Pure AutoConfigue) and
 
 
 PS: MyBatis 纯注解使用步骤
-    1 - 纯POJO 类 - 前端View对象
-    2 - Mapper 接口类
-        1) @Mapper注解
-        2) @Select @Update @Delete ... 数据库操作 注解 定义SQL
-        3) 查询: 返回POJO对象或 POJOlist
-           更新/删除: 返回操作的条数
-    3 - 定义Service 接口
-    4 - 定义Service 实现 - 添加类 @Service注解
-    5 - 定义RestController - 添加 @RestController
+
+    1 - 纯POJO 类 - 前端View对象  
+    2 - Mapper 接口类  
+        1) @Mapper注解  
+        2) @Select @Update @Delete ... 数据库操作 注解 定义SQL  
+        3) 查询: 返回POJO对象或 POJOlist  
+           更新/删除: 返回操作的条数  
+    3 - 定义Service 接口  
+    4 - 定义Service 实现 - 添加类 @Service注解  
+    5 - 定义RestController - 添加 @RestController  
