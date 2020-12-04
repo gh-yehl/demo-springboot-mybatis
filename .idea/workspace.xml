@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21f9abd5-3817-4e07-8729-2700b104a412" name="Default Changelist" comment="" />
+    <list default="true" id="21f9abd5-3817-4e07-8729-2700b104a412" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/ReadMe.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +17,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1l99hYIS4BXHgsYZtNuCmE2isOE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -75,6 +81,14 @@
       <screen x="0" y="0" width="1549" height="831" />
     </state>
     <state x="486" y="65" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1549.831@0.0.1549.831" timestamp="1606999522917" />
+    <state x="619" y="313" key="Github.ShareDialog" timestamp="1607060183575">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="619" y="313" key="Github.ShareDialog/0.0.1549.831@0.0.1549.831" timestamp="1607060183575" />
+    <state x="512" y="120" key="Github.UntrackedFilesDialog" timestamp="1607060191281">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="512" y="120" key="Github.UntrackedFilesDialog/0.0.1549.831@0.0.1549.831" timestamp="1607060191281" />
     <state width="1506" height="217" key="GridCell.Tab.0.bottom" timestamp="1607058494567">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
