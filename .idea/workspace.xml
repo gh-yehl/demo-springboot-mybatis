@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21f9abd5-3817-4e07-8729-2700b104a412" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +30,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -66,7 +68,19 @@
       <option name="presentableId" value="Default" />
       <updated>1606998559902</updated>
     </task>
+    <task id="LOCAL-00001" summary="添加 MyBatis使用步骤">
+      <created>1607060498717</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607060498718</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="添加 MyBatis使用步骤" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加 MyBatis使用步骤" />
   </component>
   <component name="WindowStateProjectService">
     <state x="563" y="217" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607050255189">
@@ -81,6 +95,10 @@
       <screen x="0" y="0" width="1549" height="831" />
     </state>
     <state x="486" y="65" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1549.831@0.0.1549.831" timestamp="1606999522917" />
+    <state x="405" y="0" key="CommitChangelistDialog2" timestamp="1607060497891">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="405" y="0" key="CommitChangelistDialog2/0.0.1549.831@0.0.1549.831" timestamp="1607060497891" />
     <state x="619" y="313" key="Github.ShareDialog" timestamp="1607060183575">
       <screen x="0" y="0" width="1549" height="831" />
     </state>
@@ -105,5 +123,9 @@
       <screen x="0" y="0" width="1549" height="831" />
     </state>
     <state width="1506" height="217" key="GridCell.Tab.0.right/0.0.1549.831@0.0.1549.831" timestamp="1607058494567" />
+    <state x="367" y="148" key="Vcs.Push.Dialog.v2" timestamp="1607060509011">
+      <screen x="0" y="0" width="1549" height="831" />
+    </state>
+    <state x="367" y="148" key="Vcs.Push.Dialog.v2/0.0.1549.831@0.0.1549.831" timestamp="1607060509011" />
   </component>
 </project>
