@@ -2,7 +2,7 @@
 Demo Project - SpringBoot Integrate with MyBatis(No XML - Pure AutoConfigue) and Druid
 
   1 - Integrate with MyBatis  
-    1) 依赖
+    1) 依赖  
             <parent>
                 <artifactId>spring-boot-starter-data-jpa</artifactId>
                 <groupId>org.springframework.boot</groupId>
